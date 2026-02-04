@@ -176,7 +176,7 @@ python export_onnx.py
     <h2>👨‍💻 Author</h2>
     <p>
         <strong>Om Nimmalwar</strong><br>
-        BCA Student | Data Analysis & AI Enthusiast
+        MCA Student | Data Scientist & AI Enthusiast
     </p>
 </div>
 
