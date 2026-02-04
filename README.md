@@ -2,35 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Semiconductor Defect Detection</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code, pre {
-            background: #eef2f3;
-            padding: 8px;
-            display: block;
-            border-left: 4px solid #3498db;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .section {
-            background: #ffffff;
-            padding: 20px;
-            margin-bottom: 25px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.05);
-        }
-    </style>
 </head>
 
 <body>
