@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-<h1>🧠 Semiconductor Defect Detection using Deep Learning</h1>
+<h1>🧠 Semiconductor Defect Detection using Deep Learning (WaferVision-Ai)</h1>
 
 <div class="section">
     <h2>📌 Project Overview</h2>
@@ -85,6 +85,19 @@ Semiconductor_Defect_Detection/
     2️⃣ Test a Single Image
     python test.py 
 </div>
+
+<div class="section">
+    <h2>🔗 Resources & References</h2>
+    <p>
+        The following datasets were used for building and validating
+        the semiconductor defect detection system:
+    </p>
+            <a href="https://www.kaggle.com/datasets" target="_blank" style="color:#38bdf8;">
+                Semiconductor Wafer Defect Dataset
+            </a>
+       
+</div>
+
 
 <div class="section">
     <h2>📊 Evaluation</h2>
