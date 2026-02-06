@@ -1,38 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Semiconductor Defect Detection using Deep Learning</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #0b1220;
-            color: #e5e7eb;
-            line-height: 1.6;
-            padding: 30px;
-        }
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        pre {
-            background: #020617;
-            padding: 15px;
-            border-radius: 6px;
-            overflow-x: auto;
-            color: #a5f3fc;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        .highlight {
-            color: #22c55e;
-        }
-    </style>
-</head>
-
 <body>
 
 <h1>🧠 Semiconductor Defect Detection using Deep Learning</h1>
