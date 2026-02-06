@@ -63,33 +63,27 @@ Semiconductor_Defect_Detection/
     <p>Install dependencies using:</p>
     <pre>pip install -r requirements.txt</pre>
 
-    <ul>
-        <li>Python 3.9+</li>
-        <li>PyTorch & Torchvision</li>
-        <li>NumPy</li>
-        <li>Pillow</li>
-        <li>OpenCV</li>
-        <li>ONNX & ONNX Runtime</li>
-        <li>Scikit-learn</li>
-        <li>Matplotlib</li>
-    </ul>
+    Requirements :
+    1. Python 3.9+
+    2. PyTorch & Torchvision
+    3. NumPy
+    4. Pillow
+    5. OpenCV
+    6. ONNX & ONNX Runtime
+    7. Scikit-learn
+    8. Matplotlib
+    
 </div>
 
 <div class="section">
     <h2>🚀 How to Run the Project</h2>
 
-    <h3>1️⃣ Train the Model</h3>
-    <pre>python train.py</pre>
-    <p>Trains the CNN model and saves it in the <span class="highlight">model/</span> directory.</p>
+    1️⃣ Train the Model
+    python train.py
+    Trains the CNN model and saves it in the model directory.
 
-    <h3>2️⃣ Test a Single Image</h3>
-    <pre>python test.py --image path/to/image.jpg</pre>
-
-    <h3>3️⃣ Predict Multiple Images (Recursive)</h3>
-    <pre>python test_images.py --input test_images/</pre>
-
-    <h3>4️⃣ Export Model to ONNX</h3>
-    <pre>python export_onnx.py</pre>
+    2️⃣ Test a Single Image
+    python test.py 
 </div>
 
 <div class="section">
